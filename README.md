@@ -45,7 +45,7 @@ This project uses **semantic embeddings** to help the system "understand" the me
 </p>
 
 ### 2. Upload this file when prompted:
-- `mini_quran_dataset.csv` – [Download it here](sandbox:/mnt/data/mini_quran_dataset.csv)
+- [![Download Dataset](https://img.shields.io/badge/Download-mini_quran_dataset.csv-brightgreen)](https://raw.githubusercontent.com/Akane-Asahi/Qur-an-Hadith-semantic-search-QA-retrieval-/main/mini_quran_dataset.csv)
 
 ### 3. Run all cells and type your own question!
 
