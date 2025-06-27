@@ -85,6 +85,7 @@ This is the second step in building an explainable, ethical AI system for Islami
 <a href="https://github.com/Akane-Asahi/Text-Classification-Islamic-vs-Non-Islamic-Content">
   <img src="https://img.shields.io/badge/🔎 Project_1-Text_Classification-blue?style=for-the-badge&logo=github" alt="GitHub Repository">
 </a>    
+
 👁️ Project 2: You Are here  
 🧠 Project 3: Islamic intent classifier (Dialogue Act Tagging)  
 🧩 Project 4: Build a rule-based + ML-based chatbot engine  
