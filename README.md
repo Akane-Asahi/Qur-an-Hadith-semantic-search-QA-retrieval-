@@ -78,15 +78,35 @@ More verses can be added as needed in future phases.
 
 ---
 
+## 🔬 My AI Research Roadmap
+
+This is the second step in building an explainable, ethical AI system for Islamic knowledge applications:
+
+<a href="https://github.com/Akane-Asahi/Text-Classification-Islamic-vs-Non-Islamic-Content">
+  <img src="https://img.shields.io/badge/🔎 Project_1-Text-Classification-Islamic-vs-Non-Islamic-Content-blue?style=for-the-badge&logo=github" alt="GitHub Repository">
+</a>  
+👁️ Project 2: You Are here  
+🧠 Project 3: Islamic intent classifier (Dialogue Act Tagging)  
+🧩 Project 4: Build a rule-based + ML-based chatbot engine  
+🤖 Project 5: Fine-tune LLMs on faith-aligned data (e.g., FaithDial)  
+
+## 🤝 Author & Motivation
+Built by Telot as part of a personal and academic journey to explore the intersection of:
+
+📜 Faith-based knowledge  
+🧠 Responsible AI  
+🧪 Research in NLP and conversational agents  
+
+This project is my first practical step toward a Muslim scholar chatbot that is rooted in verified sources and ethical design.
+
 ## 📬 Contact
 
-Built by [Your Name] as part of a journey to responsibly integrate AI with Islamic ethics and scholarship.
+Want to collaborate, mentor, or discuss faith-aware AI?
+📧 Reach out at: heytelot@gmail.com
+🌐 LinkedIn: 
+<a href="https://www.linkedin.com/in/mosfaiulalam/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-Mosfaiul%20Alam-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" width="250"/>
+</a>
 
-📧 your_email@example.com  
-🔗 LinkedIn: [your-linkedin-profile]
-
----
-
-## 🪪 License
-
-This project is open-sourced under the [MIT License](LICENSE).
+🪪 License
+This project is open source under the MIT License.
