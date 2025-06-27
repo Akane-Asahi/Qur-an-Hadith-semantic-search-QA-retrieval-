@@ -38,7 +38,11 @@ This project uses **semantic embeddings** to help the system "understand" the me
 
 ### 1. Open the notebook in Google Colab
 
-> [Insert your Colab notebook link here]
+<p align="left">
+  <a href="https://colab.research.google.com/drive/1XW1LNExyzsQ1NYP6FjLCFk0DuBG1VwnA?usp=sharing">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="150"/>
+  </a>
+</p>
 
 ### 2. Upload this file when prompted:
 - `mini_quran_dataset.csv` – [Download it here](sandbox:/mnt/data/mini_quran_dataset.csv)
