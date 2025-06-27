@@ -38,14 +38,14 @@ This project uses **semantic embeddings** to help the system "understand" the me
 
 ### 1. Open the notebook in Google Colab
 
-- <p align="left">
+<p align="left">
   <a href="https://colab.research.google.com/drive/1XW1LNExyzsQ1NYP6FjLCFk0DuBG1VwnA?usp=sharing">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="150"/>
   </a>
 </p>
 
 ### 2. Upload this file when prompted:
-- <a href="https://drive.google.com/uc?export=download&id=1Eb3uiaYXRSUS7vJ2zGymxQ3mRMBcWJOq">
+<a href="https://drive.google.com/uc?export=download&id=1Eb3uiaYXRSUS7vJ2zGymxQ3mRMBcWJOq">
   <img src="https://img.shields.io/badge/📥_Download_Dataset-CSV-green?style=for-the-badge" alt="Download Dataset">
 </a>
 
