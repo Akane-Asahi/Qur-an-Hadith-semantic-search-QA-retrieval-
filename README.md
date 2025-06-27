@@ -81,7 +81,7 @@ More verses can be added as needed in future phases.
 ## 🔬 My AI Research Roadmap
 
 This is the second step in building an explainable, ethical AI system for Islamic knowledge applications:
- 
+
 <a href="https://github.com/Akane-Asahi/Text-Classification-Islamic-vs-Non-Islamic-Content">
   <img src="https://img.shields.io/badge/Project_1-Text_Classification-blue?style=for-the-badge&logo=github" alt="GitHub Repository">
 </a>    
@@ -102,12 +102,12 @@ This project is my first practical step toward a Muslim scholar chatbot that is 
 
 ## 📬 Contact
 
-Want to collaborate, mentor, or discuss faith-aware AI?
-📧 Reach out at: heytelot@gmail.com
+Want to collaborate, mentor, or discuss faith-aware AI?  
+📧 Reach out at: heytelot@gmail.com  
 🌐 LinkedIn: 
 <a href="https://www.linkedin.com/in/mosfaiulalam/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-Mosfaiul%20Alam-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" width="250"/>
-</a>
+</a>  
 
 🪪 License
 This project is open source under the MIT License.
