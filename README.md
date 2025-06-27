@@ -83,7 +83,7 @@ More verses can be added as needed in future phases.
 This is the second step in building an explainable, ethical AI system for Islamic knowledge applications:
  
 <a href="https://github.com/Akane-Asahi/Text-Classification-Islamic-vs-Non-Islamic-Content">
-  <img src="https://img.shields.io/badge/🔎 Project_2-Qur’an_&_Hadith_semantic_search_(QA_retrieval)-blue?style=for-the-badge&logo=github" alt="GitHub Repository">
+  <img src="https://img.shields.io/badge/📖 Project_1-Islamic_vs_Non-Islamic_Text_Classification-blue?style=for-the-badge&logo=github" alt="GitHub Repository">
 </a>     
 👁️ Project 2: You Are here  
 🧠 Project 3: Islamic intent classifier (Dialogue Act Tagging)  
