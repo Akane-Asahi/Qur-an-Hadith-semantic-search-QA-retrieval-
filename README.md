@@ -38,7 +38,7 @@ This project uses **semantic embeddings** to help the system "understand" the me
 
 ### 1. Open the notebook in Google Colab
 
-<p align="left">
+- <p align="left">
   <a href="https://colab.research.google.com/drive/1XW1LNExyzsQ1NYP6FjLCFk0DuBG1VwnA?usp=sharing">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="150"/>
   </a>
