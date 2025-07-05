@@ -4,6 +4,25 @@ This project is the second step in building a **faith-aware, responsible AI syst
 
 ---
 
+## 🏃 Getting Started (Google Colab)
+
+### 1. Open the notebook in Google Colab
+
+<p align="left">
+  <a href="https://colab.research.google.com/drive/1XW1LNExyzsQ1NYP6FjLCFk0DuBG1VwnA?usp=sharing">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="150"/>
+  </a>
+</p>
+
+### 2. Upload this file when prompted:
+<a href="https://drive.google.com/uc?export=download&id=1Eb3uiaYXRSUS7vJ2zGymxQ3mRMBcWJOq">
+  <img src="https://img.shields.io/badge/📥_Download_Dataset-CSV-green?style=for-the-badge" alt="Download Dataset">
+</a>
+
+### 3. Run all cells and type your own question!
+
+---
+
 ## 📌 Why This Project?
 
 In many NLP systems, keyword matching fails to capture the deeper meaning of user questions. When building an AI system for **Islamic knowledge**, it's important to:
@@ -31,25 +50,6 @@ This project uses **semantic embeddings** to help the system "understand" the me
 > **System**:  
 > 📖 Surah: Al-Baqarah, Ayah: 267  
 > 🕋 Verse: *"O you who have believed, spend from the good things which you have earned..."*
-
----
-
-## 🏃 Getting Started (Google Colab)
-
-### 1. Open the notebook in Google Colab
-
-<p align="left">
-  <a href="https://colab.research.google.com/drive/1XW1LNExyzsQ1NYP6FjLCFk0DuBG1VwnA?usp=sharing">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="150"/>
-  </a>
-</p>
-
-### 2. Upload this file when prompted:
-<a href="https://drive.google.com/uc?export=download&id=1Eb3uiaYXRSUS7vJ2zGymxQ3mRMBcWJOq">
-  <img src="https://img.shields.io/badge/📥_Download_Dataset-CSV-green?style=for-the-badge" alt="Download Dataset">
-</a>
-
-### 3. Run all cells and type your own question!
 
 ---
 
